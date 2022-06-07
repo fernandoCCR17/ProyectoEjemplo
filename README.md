@@ -1,4 +1,4 @@
 # ProyectoEjemplo
-Mi primer resositorio de GiHub
+Mi primer repositorio de GitHub
 
 Autor: De la Cruz Ramos Fernando 
